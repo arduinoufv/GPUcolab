@@ -41,4 +41,9 @@ Este mini-curso faz parte da programação do [Simpósio de Sistemas Computacion
 [Dissecting the NVidia Turing T4 GPU via Microbenchmarking](https://arxiv.org/abs/1903.07486)
 
 
+# Outros colab
+
+[Speech recognition](https://colab.research.google.com/github/scgupta/yearn2learn/blob/master/speech/asr/python_speech_recognition_notebook.ipynb)
+
+
 
