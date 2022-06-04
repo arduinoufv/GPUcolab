@@ -45,5 +45,10 @@ Este mini-curso faz parte da programação do [Simpósio de Sistemas Computacion
 
 [Speech recognition](https://colab.research.google.com/github/scgupta/yearn2learn/blob/master/speech/asr/python_speech_recognition_notebook.ipynb)
 
+# GPU em Python
+
+[Exemplo de Colab com uso de Python e C++](https://colab.research.google.com/github/vellamike/pycuda/blob/master/pycuda_workshop.ipynb#scrollTo=_ef82NDPJqWV)
+
+
 
 
