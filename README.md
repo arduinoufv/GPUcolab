@@ -30,6 +30,10 @@ Este mini-curso faz parte da programação do [Simpósio de Sistemas Computacion
 [Livro Cuda C professional programming - 2014](https://media.wiley.com/product_ancillary/29/11187393/DOWNLOAD/CodeSamples.zip)
 
 
+# Demos com Python
+
+[GPU Puzzles](https://colab.research.google.com/github/srush/GPU-Puzzles/blob/main/GPU_puzzlers.ipynb#scrollTo=a9cf3bba)
+
 [Learn CUDA Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming)
 
 [CUDA by Example](https://developer.nvidia.com/cuda-example)
