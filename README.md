@@ -53,6 +53,8 @@ Este mini-curso faz parte da programação do [Simpósio de Sistemas Computacion
 
 [Exemplo de Colab com uso de Python e C++](https://colab.research.google.com/github/vellamike/pycuda/blob/master/pycuda_workshop.ipynb#scrollTo=_ef82NDPJqWV)
 
+[AI Deep](https://tvm.d2l.ai/chapter_gpu_schedules/index.html)
+
 
 
 
