@@ -5,5 +5,5 @@
 
 ## Exercicio 2
 [Segunda Tarefa  - Colab com Gradio](https://colab.research.google.com/drive/1o6go8NOLk6oE84WkkAHksBeHHdBZmVR0?usp=sharing)
-   * [incluindo medidas de desempenho](https://youtu.be/r_Y_qkaPJtk)
-   * [incluindo a execução com gradio](https://youtu.be/V_nyBkUKt8c)
+   * [Trecho da aula para incluir medidas de desempenho](https://youtu.be/r_Y_qkaPJtk)
+   * [Trecho da aula para a execução com gradio](https://youtu.be/V_nyBkUKt8c)
