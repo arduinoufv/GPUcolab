@@ -7,3 +7,6 @@
 [Segunda Tarefa  - Colab com Gradio](https://colab.research.google.com/drive/1o6go8NOLk6oE84WkkAHksBeHHdBZmVR0?usp=sharing)
    * [Trecho da aula para incluir medidas de desempenho](https://youtu.be/r_Y_qkaPJtk)
    * [Trecho da aula para a execução com gradio](https://youtu.be/V_nyBkUKt8c)
+   * [Interface Crisnamurti](https://excalidraw.com/#json=BSsmsIattI38wllrNOstr,Xt2iuYSDdJoKvJzu4ZyqdQ)
+   * [Interface Vitor](https://excalidraw.com/#json=Xnyg3nuS9KqqjcnzK8iwv,dxo0MVfP913LMouxMrOwiw)
+   * [Interface Alysson](https://excalidraw.com/#json=yCmRRSyJ9bNesfbXqt_-B,keg6TyrurtNEtO5zzlYuSQ)
