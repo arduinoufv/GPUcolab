@@ -10,3 +10,7 @@
    * [Interface Crisnamurti](https://excalidraw.com/#json=BSsmsIattI38wllrNOstr,Xt2iuYSDdJoKvJzu4ZyqdQ)
    * [Interface Vitor](https://excalidraw.com/#json=Xnyg3nuS9KqqjcnzK8iwv,dxo0MVfP913LMouxMrOwiw)
    * [Interface Alysson](https://excalidraw.com/#json=yCmRRSyJ9bNesfbXqt_-B,keg6TyrurtNEtO5zzlYuSQ)
+
+## Exercicio 3
+  * [Colab avaliando TEA para intensidade e IF/CASE/FOR para divergencia](https://colab.research.google.com/drive/1PZST_A5BAtKSN8kJWavmOd6tk9l2gtd2?usp=sharing)
+  
