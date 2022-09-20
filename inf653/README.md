@@ -13,4 +13,5 @@
 
 ## Exercicio 3
   * [Colab avaliando TEA para intensidade e IF/CASE/FOR para divergencia](https://colab.research.google.com/drive/1PZST_A5BAtKSN8kJWavmOd6tk9l2gtd2?usp=sharing)
+  * [Colab com exemplos Nvidia e Kmeans](https://colab.research.google.com/drive/1XAA0XDVIJbAmjus9NfdE-dHaYAAlwWUM?usp=sharing)
   
