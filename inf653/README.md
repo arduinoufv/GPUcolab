@@ -5,6 +5,8 @@
 
 ## Exercicio 2
 [Segunda Tarefa  - Colab com Gradio](https://colab.research.google.com/drive/1o6go8NOLk6oE84WkkAHksBeHHdBZmVR0?usp=sharing)
+
+   * [Como entregar a tarefa 2](https://www.youtube.com/watch?v=Yd8TxGFJWCQ&list=PLcvOyD_LMr6naXvENYf6xDBnqcqvmhE0G&index=6)
    * [Trecho da aula para incluir medidas de desempenho](https://youtu.be/r_Y_qkaPJtk)
    * [Trecho da aula para a execução com gradio](https://youtu.be/V_nyBkUKt8c)
    * [Interface Crisnamurti](https://excalidraw.com/#json=BSsmsIattI38wllrNOstr,Xt2iuYSDdJoKvJzu4ZyqdQ)
