@@ -15,6 +15,6 @@
 
 ## Exercicio 3
   * [Playlist com explicações do Kmeans e comentários das tarefas 1 e 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6naXvENYf6xDBnqcqvmhE0G)
-  * [Colab avaliando TEA para intensidade e IF/CASE/FOR para divergencia](https://colab.research.google.com/drive/1PZST_A5BAtKSN8kJWavmOd6tk9l2gtd2?usp=sharing)
+  * [Colab avaliando TEA para intensidade e IF/CASE/FOR para divergencia, **tarefa com IF para cada aluno**](https://colab.research.google.com/drive/1PZST_A5BAtKSN8kJWavmOd6tk9l2gtd2?usp=sharing)
   * [Colab com exemplos Nvidia e Kmeans](https://colab.research.google.com/drive/1XAA0XDVIJbAmjus9NfdE-dHaYAAlwWUM?usp=sharing)
   
