@@ -19,4 +19,4 @@
   * [Colab com exemplos Nvidia e Kmeans](https://colab.research.google.com/drive/1XAA0XDVIJbAmjus9NfdE-dHaYAAlwWUM?usp=sharing)
   
 ## Exercicio 4
- * [Explorar exemplos do Livro Cuda C Professional Programming gerando interface Gradio]()
+ * [Explorar exemplos do Livro Cuda C Professional Programming gerando interface Gradio](https://colab.research.google.com/drive/12XPHS3yGXwDH4Jv95cFME-_4XhIEHWqv)
