@@ -11,6 +11,6 @@ def random_quiz_list(l,head=""):
     if (answer== l[x][1]):
       return "Well done !"
     else: 
-      return "Try again !"  
-
+      return "Try again ..."  
+    
   interact(op,answer="^")
